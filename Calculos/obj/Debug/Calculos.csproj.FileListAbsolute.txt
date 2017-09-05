@@ -1,0 +1,6 @@
+C:\Users\Wellington Miyake\source\repos\Calculos\Calculos\bin\Debug\Calculos.exe
+C:\Users\Wellington Miyake\source\repos\Calculos\Calculos\bin\Debug\Calculos.pdb
+C:\Users\Wellington Miyake\source\repos\Calculos\Calculos\obj\Debug\Calculos.csprojResolveAssemblyReference.cache
+C:\Users\Wellington Miyake\source\repos\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Miyake\source\repos\Calculos\Calculos\obj\Debug\Calculos.exe
+C:\Users\Wellington Miyake\source\repos\Calculos\Calculos\obj\Debug\Calculos.pdb
